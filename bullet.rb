@@ -1,3 +1,6 @@
+# Autors: Késsia Castro and Luciano Eduardo
+# Introduction to Programming - IFRN - 2014
+
 class Bullet
     attr_reader :x, :y
     attr_accessor :shooting, :z, :alive, :bulletalive

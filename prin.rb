@@ -1,3 +1,6 @@
+# Autors: Késsia Castro and Luciano Eduardo
+# Introduction to Programming - IFRN - 2014
+
 require 'rubygems'
 require 'gosu'
 require './zombie_beta'

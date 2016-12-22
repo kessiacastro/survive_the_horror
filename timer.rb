@@ -1,3 +1,6 @@
+# Autors: Késsia Castro and Luciano Eduardo
+# Introduction to Programming - IFRN - 2014
+
 class Timer
 	def initialize(window, zombies)
 		@window = window

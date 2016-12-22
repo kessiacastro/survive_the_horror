@@ -1,3 +1,6 @@
+# Autors: Késsia Castro and Luciano Eduardo
+# Introduction to Programming - IFRN - 2014
+
 class Player
 	attr_reader :x, :y, :z, :bullet, :game_over
 	def initialize(game_window)

@@ -1,3 +1,6 @@
+# Autors: Késsia Castro and Luciano Eduardo
+# Introduction to Programming - IFRN - 2014
+
 class Zombie
   attr_reader :x, :y, :alive, :z, :shooting
   attr_accessor :score

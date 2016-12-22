@@ -1,3 +1,6 @@
+# Autors: Késsia Castro and Luciano Eduardo
+# Introduction to Programming - IFRN - 2014
+
 class MyGame < Gosu::Window
 attr_reader :score
 attr_accessor :score, :bulletalive
