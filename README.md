@@ -1,5 +1,6 @@
 # Survive The Horror
-Just a small 2D game in Gosu and Ruby for a course.
+
+Just a small 2D game in Gosu and Ruby for the Introduction to Programming - IFRN (2014).
 
 ```
 brew install sdl2
