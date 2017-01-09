@@ -1,4 +1,4 @@
-# Autors: Késsia Castro and Luciano Eduardo
+# Authors: Késsia Castro and Luciano Eduardo
 # Introduction to Programming - IFRN - 2014
 
 class Timer
