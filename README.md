@@ -2,7 +2,7 @@
 
 Just a small 2D game in Ruby using [Gosu](https://www.libgosu.org) for the Introduction to Programming course in 2014.
 
-![game image](http://pasteboard.co/k5i6agakw.png "game image")
+<img src="https://raw.githubusercontent.com/kessiacastro/survive_the_horror/master/imagens/game_image.png" height="300" width="300">
 
 ```
 brew install sdl2
