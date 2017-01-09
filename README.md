@@ -2,8 +2,6 @@
 
 Just a small 2D game in Ruby using [Gosu](https://www.libgosu.org) for the Introduction to Programming course in 2014.
 
-![game image](https://raw.githubusercontent.com/kessiacastro/survive_the_horror/master/imagens/game_image.png)
-
 ```
 brew install sdl2
 rbenv install ruby # Check if the newer version of ruby is in rbenv global, if not: rbenv global 2.3.3
