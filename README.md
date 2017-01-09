@@ -1,6 +1,8 @@
 # Survive The Horror
 
-Just a small 2D game in Ruby using [Gosu](https://www.libgosu.org) for the Introduction to Programming course in IFRN.(2014)
+Just a small 2D game in Ruby using [Gosu](https://www.libgosu.org) for the Introduction to Programming course in 2014.
+
+![game image](http://pasteboard.co/k5i6agakw.png "game image")
 
 ```
 brew install sdl2
